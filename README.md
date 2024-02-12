@@ -6,7 +6,7 @@
 <!---[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&pause=1000&color=25DDF7&background=B3FFE500&center=true&random=false&width=750&lines=Hey++there+%2C+I'm+Saurav+Chavan)</div>](https://git.io/typing-svg) --->
 
 
-[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1500%2B+Hours+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1200%2B+Hours+of+Coding+Experience+⚡️;600%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
 <hr>
 
 
@@ -18,7 +18,7 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 * 🌍  I hail from Muzaffarpur, Bihar.
 * 🔥  Visit my [Portfolio](https://portfolio) for more details.
 * ✉️  You can contact me at [kundankumarsuraj761@gmail.com](mailto:kundankumarsuraj761@gmail.com)
-* ⭐ My latest project [Bon Voyage]([https://saurav01myntra.netlify.app/](https://65ae04d77f6077f381dc06a8--cheery-sprite-5f8d56.netlify.app/))
+* ⭐ My latest project [BonVoyage](https://saurav01myntra.netlify.app/](https://65ae04d77f6077f381dc06a8--cheery-sprite-5f8d56.netlify.app/)) in Masai School
 <br />
 <hr>
 
@@ -34,13 +34,11 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 
 <h4 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Saurav9284}/count.svg" alt="Saurav9284" :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{kundan761}/count.svg" alt="kundan761" :: Visitor's Count" /></p>
 
 <hr>
 
  #### 👨‍💻CONNECT WITH ME:
-
-<!--- ![Portfolio](https://github.com/Saurav9284/Unite-6-Project-Gem-Garden/assets/135011685/2cebc2f4-07ac-40f9-b845-10f5322c32d5) --->
 
 <p align="left">
   <a href="https://Portfolio">
@@ -70,7 +68,6 @@ I'm a Full Stack Web Developer skilled in MERN stack. My passion for software li
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode" />
 <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" alt="replit" />
 <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />
