@@ -12,7 +12,7 @@
 
  #### 👨‍💻ABOUT ME:
 <h4 align="center">
-I'm a Full Stack Web Developer skilled in MERN stack. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.I focus on writing clean, elegant and efficient code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms 💡..</h4>
+I'm Full Stack Developer proficient in React.js for sleek user interfaces. Skilled in HTML, CSS, and JavaScript with a focus on frontend development. Collaborative problem-solver dedicated to top-quality, scalable code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms 💡..</h4>
 <br/>
 
 * 🌍  I hail from Muzaffarpur, Bihar.
