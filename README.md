@@ -16,7 +16,7 @@ I'm Full Stack Developer proficient in React.js for sleek user interfaces. Skill
 <br/>
 
 * 🌍  I hail from Muzaffarpur, Bihar.
-* 🔥  Visit my [Portfolio](https://kundan761.github.io/#)for more details.
+* 🔥  Visit my [Portfolio](https://kundan761.github.io/) for more details.
 * ✉️  You can contact me at [kundankumarsuraj761@gmail.com](mailto:kundankumarsuraj761@gmail.com)
 * ⭐ My latest project [BonVoyage](https://65ae04d77f6077f381dc06a8--cheery-sprite-5f8d56.netlify.app/) in Masai School
 <br />
