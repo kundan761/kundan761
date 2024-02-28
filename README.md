@@ -41,10 +41,10 @@ I'm Full Stack Developer proficient in React.js for sleek user interfaces. Skill
  #### 👨‍💻CONNECT WITH ME:
 
 <p align="left">
-  <a href="https://Portfolio">
+  <a href="https://kundan761.github.io/">
     <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
   </a>
-  <a href="https://www.linkedin.com/in/kundan-kumar-suraj/" target="https://www.linkedin.com/in/saurav-chavan/">
+  <a href="https://www.linkedin.com/in/kundan-kumar-suraj/" target="https://www.linkedin.com/in/kundan-kumar-suraj/">
   <img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" />
   </a>
 </p>
