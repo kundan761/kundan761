@@ -50,7 +50,7 @@ I'm Full Stack Developer proficient in React.js for sleek user interfaces. Skill
   <a target="_blank" href="mailto:kundankumarsuraj761@gmail.com@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt=" " />
   </a>
-  <a target="_blank" href="https://twitter.com/kundan761">
+  <a target="_blank" href="https://twitter.com/Kundan_761">
    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt=" " />
   </a>
 </p>
