@@ -19,7 +19,7 @@ I'm Full Stack Developer proficient in React.js for sleek user interfaces. Skill
 
  #### What do I do? <img src="https://media.giphy.com/media/XGma2iRIHTKkwqRkFl/giphy.gif" width="50"></h3>
 
-<h4>✅ I aspire to work as a programmer.</h4>
+<h4>✅ I aspire to work as a programmer</h4>
 
 <h4>✅ I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.</h4>
 
