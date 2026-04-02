@@ -1,13 +1,13 @@
-<h1 align="center">Hi , I'm Kundan Kumar Suraj 😊<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Kundan Suraj 😊<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Full+Stack+Web+Developer+👨🏻‍💻;1200%2B+Hours+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Software+Developer+👨🏻‍💻;2%2B+Years+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
 <hr>
 
 
  #### 👨‍💻ABOUT ME:
 <h4 align="center">
-I'm Full Stack Developer proficient in React.js for sleek user interfaces. Skilled in HTML, CSS, and JavaScript with a focus on frontend development. Collaborative problem-solver dedicated to top-quality, scalable code. Highly skilled in collaboration, decision-making, and Data Structures & Algorithms 💡..</h4>
+Software Developer experienced in building end-to-end web applications. Focused on developing scalable, efficient, and maintainable solutions, with a strong emphasis on clean code and problem-solving💡..</h4>
 <br/>
 
 * 🌍  I hail from Muzaffarpur, Bihar.
@@ -21,9 +21,9 @@ I'm Full Stack Developer proficient in React.js for sleek user interfaces. Skill
 
 <h4>✅ I aspire to work as a programmer.</h4>
 
-<h4>✅ I'm a fast learner looking for interesting career opportunities in Web as a full-stack developer.</h4>
+<h4>✅ I'm a fast learner looking for interesting career opportunities in Web as a software developer.</h4>
 
-<h4>✅ Currently looking for opportunities as a MERN Stack developer to help me learn and grow as a web developer.</h4>
+<h4>✅ Currently looking for opportunities as a software developer to help me learn and grow as a developer.</h4>
 
 <hr>
 
