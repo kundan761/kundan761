@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Kundan Suraj 😊<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 
-[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Software+Developer+👨🏻‍💻;2%2B+Years+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
+[<div align="center">![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=00ffff&background=B3FFE500&center=true&random=false&width=435&lines=Software+Engineer+👨🏻‍💻;2%2B+Years+of+Coding+Experience+⚡️;700%2B+DSA+Questions+Solved+💡)</div>](https://git.io/typing-svg)
 <hr>
 
 
