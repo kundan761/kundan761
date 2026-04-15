@@ -99,11 +99,11 @@ Software Engineer experienced in building end-to-end web applications. Focused o
 </p>
 <p align="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundan761&theme=tokyonight"/>
- <p>
-   <img src="https://github-readme-stats.vercel.app/api?username=kundan761&show_icons=true&theme=tokyonight"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundan761&theme=tokyonight"/>
- </p>
 </p>
+ <p align="center">
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=kundan761&show_icons=true&theme=tokyonight"/>
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kundan761&theme=tokyonight"/>
+ </p>
 
 <br>
 <br>
