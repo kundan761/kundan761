@@ -7,7 +7,7 @@
 
  #### 👨‍💻ABOUT ME:
 <h4 align="center">
-Software Developer experienced in building end-to-end web applications. Focused on developing scalable, efficient, and maintainable solutions, with a strong emphasis on clean code and problem-solving💡..</h4>
+Software Engineer experienced in building end-to-end web applications. Focused on developing scalable, efficient, and maintainable solutions, with a strong emphasis on clean code and problem-solving💡..</h4>
 <br/>
 
 * 🌍  I hail from Muzaffarpur, Bihar.
@@ -98,10 +98,13 @@ Software Developer experienced in building end-to-end web applications. Focused 
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kundan761&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kundan761&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundan761&theme=tokyonight" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kundan761&theme=tokyonight"/>
+ <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=kundan761&show_icons=true&theme=tokyonight"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kundan761&theme=tokyonight"/>
+ </p>
 </p>
+
 <br>
 <br>
 <!--   <img  className="github-top-langs" id="github-top-langs"
