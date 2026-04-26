@@ -10,7 +10,7 @@
 Software Engineer experienced in building end-to-end web applications. Focused on developing scalable, efficient, and maintainable solutions, with a strong emphasis on clean code and problem-solving💡..</h4>
 <br/>
 
-* 🌍  I hail from Muzaffarpur, Bihar.
+* 🌍  I hail from Patna, Bihar.
 * 🔥  Visit my [Portfolio](https://kundan761.github.io) for more details.
 * ✉️  You can contact me at [kundankumarsuraj761@gmail.com](mailto:kundankumarsuraj761@gmail.com)
 * ⭐ My latest project [BonVoyage](https://65ae04d77f6077f381dc06a8--cheery-sprite-5f8d56.netlify.app/) in Masai School
